@@ -1,0 +1,8 @@
+FundeMeTest:testAddsFundersToArrayOfFunders() (gas: 99758)
+FundeMeTest:testFundFailsWithoutEnoughtEth() (gas: 22901)
+FundeMeTest:testFundUpdatesDataStructure() (gas: 99376)
+FundeMeTest:testMinimunDollarIsFive() (gas: 5493)
+FundeMeTest:testOnlyOwnerCanWithdraw() (gas: 101986)
+FundeMeTest:testOwnerIsMsgSender() (gas: 7672)
+FundeMeTest:testWithDrawFromMultipleFunders() (gas: 349771)
+FundeMeTest:testWithDrawWithASingleFunder() (gas: 86381)
